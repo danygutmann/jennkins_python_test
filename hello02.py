@@ -1,1 +1,1 @@
-echo "ahmed"
+print("World")
